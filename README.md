@@ -10,7 +10,16 @@ This implementation is inspired by stable-baselines.
 
 Please cite the paper below if you find this paper helpful or if you use this code in your research:
 
-(To be added)
+```
+@misc{yau2020did,
+      title={What Did You Think Would Happen? Explaining Agent Behaviour Through Intended Outcomes}, 
+      author={Herman Yau and Chris Russell and Simon Hadfield},
+      year={2020},
+      eprint={2011.05064},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+```
 
 ## Requirements
 
